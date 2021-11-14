@@ -1,0 +1,48 @@
+.love1 {
+  width: 200px;
+  height: 200px;
+  border: 10px solid darkred;
+  border-bottom-left-radius: 140px;
+  border-top-left-radius: 140px;
+  border-bottom-right-radius: 140px;
+  transform: rotate(45deg);
+}
+.love2 {
+  position: relative;
+  top: -220px;
+  left: 296px;
+  width: 200px;
+  height: 200px;
+  border: 10px solid darkred;
+  border-bottom-left-radius: 140px;
+  border-top-left-radius: 140px;
+  border-bottom-right-radius: 140px;
+  transform: rotate(-135deg);
+}
+.love3 {
+  position: relative;
+  left: 153px;
+  top: -80px;
+  width: 200px;
+  height: 200px;
+  background-color: darkred;
+  transform: rotate(-135deg);
+}
+.love4 {
+    position: relative;
+    top: -350px;
+    left: 83px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background-color: darkred;
+}
+.love5 {
+    position: relative;
+    top: -548px;
+    left: 221px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background-color: darkred;
+}
